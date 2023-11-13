@@ -94,5 +94,16 @@ extern "C"
 
 로즈번님이 잘 뒤집어진다.
 
+## Unity with Android
+
+생각보다 민감한 요인들이 많아 보인다. 빌드될 생각이 없어 보임. 뭐가 문제일까...
+
+**Resources**
+
+- [OpenCV Download (android-sdk-4.8.1)](https://github.com/opencv/opencv/releases/tag/4.8.1)
+- Visual Studio 2022
+- Unity 2021.3
+- Win10
+
 ## Reference
 - https://darkstart.tistory.com/38
