@@ -123,9 +123,8 @@ find_package(OpenCV REQUIRED)
 add_library(...
 
 target_link_libraries( ...
-
-                       ${log-lib}
-					   ${OpenCV_LIBS})
+                ${log-lib}
+		${OpenCV_LIBS})
 ```
 
 6. 라이브러리 build.gradle의 cmake에 내용 추가
